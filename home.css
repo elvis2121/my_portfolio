@@ -16,6 +16,9 @@
             bottom: 600px;
             border-radius: 40px;
 }
+.banner{ margin-left: 250px;
+
+}
 
 .header{ text-align: center;
           margin-top: 50px;
@@ -90,7 +93,7 @@
             border: none;
             background-color: #373a42;
             width: 80%;
-            
+
 }
 
 .fab {
