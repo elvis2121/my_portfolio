@@ -134,31 +134,15 @@
 }
 
 
-}
-.footer_main{height: auto;
-             background-color: none;
-             border: 10px solid black;
-             background-color: #449bce;
-
-}
-
 .flex_container_footer{display: flex;
                        flex-wrap: nowrap;
-                       height: 200px;
-
+                       background-color: #1d7a8e;
 }
 
 .flex_container_footer .footerbox1{width: 33.33%;
-
-
-
-
 }
 
 .flex_container_footer .footerbox2{width: 33.33%;
-
-
-
 
 }
 
