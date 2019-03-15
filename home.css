@@ -55,7 +55,10 @@
 
 }
 
-.flex_container2 .flex_box4 h3{margin-left: 340px;
+.flex_container2 .flex_box4 h3{margin-left: 440px;
+                              text-align: center;
+                              font-size: 30px;
+                              position: relative;
 
 }
 
@@ -69,21 +72,14 @@
             width: 50%;
 
 }
-
-.flex_box4{
-          display: flex;
-          flex-wrap: nowrap;
-
-
+.flex_box3 h3 {font-size: 30px;
 
 }
-
-.flex_box4 h3{text-align: justify;
-              font-size: 30px;
-
+.flex_box4{display: flex;
+          position: relative;
+          width: 70%;
+          
 }
-
-
 
 .flex_box6{
 
@@ -92,17 +88,29 @@
 .skills{
         list-style-type: none;
         margin-top: 100px;
+        margin-left: 150px;
+        position: absolute;
+        
+
+
 
 }
 .skills2{
 
          list-style-type: none;
          margin-top: 100px;
+         
+         margin-left: 200px;
 }
 
 .contacts{margin-left: 200px;
 
 }
+
+.contacts img{margin-top: 100px;
+
+}
+
 .working_hours p {text-align: center;
 }
 .flex_container3{display: flex;
