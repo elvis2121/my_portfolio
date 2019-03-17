@@ -18,8 +18,11 @@ my_portfolio is a web page that summarizes my skills and interests.
 * git
 
 ### GETTING STARTED
-git clone https://github.com/elvis2121/my_portfolio.git
-cd UI Then open index.html in your browser
+* git clone https://github.com/elvis2121/my_portfolio.git
+* cd UI Then open index.html in your browser
 
 ### CONTRIBUTING
 You can always contribute though the project is still underway.
+
+### GITHUBPAGES
+https://elvis2121.github.io/my_portfolio/
